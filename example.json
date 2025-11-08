@@ -3,13 +3,8 @@
   "apps": [
     {
       "name": "Example HTML Game",
-      "filename": "https://example.com/games/game1.html",
+      "filename": "https://sillikubi.github.io/ExtensionPage/Projectspage.html",
       "banner": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg=="
-    },
-    {
-      "name": "Another Game",
-      "filename": "https://example.com/games/game2.html",
-      "banner": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
     }
   ]
 }
