@@ -4,7 +4,9 @@
     {
       "name": "Example HTML Game",
       "filename": "https://sillikubi.github.io/ExtensionPage/Projectspage.html",
-      "banner": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg=="
+      "banner": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "version": "1.0.0",
+      "color": "#FF0000"
     }
   ]
 }
